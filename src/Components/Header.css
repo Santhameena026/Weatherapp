@@ -1,0 +1,9 @@
+.navbarbg{
+    background-color: rgb(98, 211, 249) ;
+}
+.input{
+    color:hsl(39, 86%, 32%);
+}
+.navitem:hover{
+    border-bottom: 2px solid blue;
+}

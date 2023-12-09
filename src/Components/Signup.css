@@ -1,0 +1,28 @@
+.backcolor{
+   /* background: linear-gradient(rgb(142, 212, 212),rgba(0, 0, 255, 0.959),rgb(230, 133, 23)); */
+    background-image:url(signup1.jpg) ;
+    background-position: center;
+    background-size: cover;
+    height:92vh;
+}
+.signupform{
+    /*border:3px solid rgba(0,0,0,0.2); */
+    box-shadow: 5px 5px 5px red;
+}
+.input{
+    background-color: rgba(255,255,255,0.5);
+    font-size: 17px;
+    font-weight: 600;
+}
+.loginhere{
+    font-weight: 700;
+}
+.already{
+    font-weight: 600;
+    text-shadow: 1px 1px white;
+}
+.signupbtn{
+    border:none;
+    font-weight: 700;
+    font-size: 17px;
+}

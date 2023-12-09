@@ -1,0 +1,16 @@
+.bglogin{
+    background-image: url(login1.avif);
+    background-position: center;
+    background-size: cover;
+    height:92vh;
+}
+.loginform{
+    background:linear-gradient(rgba(82, 170, 232, 0.3), rgba(229, 229, 11, 0.3));
+    border:2px solid rgba(0,0,0,0.3);
+}
+.loginbtn{
+    background: linear-gradient(rgb(188, 188, 51) ,rgb(20, 139, 237));
+}
+.register{
+    color: blue;
+}

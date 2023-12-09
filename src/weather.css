@@ -1,0 +1,22 @@
+.citylist:hover{
+    color: blue;
+    cursor:pointer;
+ }
+.inputcity{
+    background-color: rgba(0,0,255,0.3);
+    border-radius: 20px;
+    border:none;
+    padding:10px;
+    font-size: 20px;
+    color:white;
+    font-weight: 600;
+}
+.inputcity:focus{
+    border:none;
+    outline:none;
+}
+.forecastbg{
+   background:linear-gradient(rgb(108, 244, 244),blue);
+   height:400vh;
+   
+}
